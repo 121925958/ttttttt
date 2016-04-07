@@ -151,7 +151,7 @@ class ViewController: UIViewController {
         
         z.text="\(c)"
         //chaolimeng
-        //"""guohan"
+        //""
     }
     
     @IBAction func chufa_button(sender: UIButton) {//除法按钮
