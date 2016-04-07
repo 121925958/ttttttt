@@ -130,7 +130,7 @@ class ViewController: UIViewController {
         if(!y.text!.isEmpty){
             b = (y.text as NSString).doubleValue
         }
-        //
+        
         
         c = a-b
         
