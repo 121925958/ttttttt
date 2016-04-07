@@ -153,6 +153,8 @@ class ViewController: UIViewController {
         //chaolimeng
         //""
 //'''
+
+sydugfsgfiugasieu
     }
     
     @IBAction func chufa_button(sender: UIButton) {//除法按钮
